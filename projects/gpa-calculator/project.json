@@ -1,0 +1,15 @@
+{
+    "title": "Project 2",
+    "description": "An advanced application demonstrating full-stack development",
+    "technologies": ["Node.js", "Express", "MongoDB", "Vue.js"],
+    "thumbnail": "thumbnail.jpg",
+    "images": ["image1.jpg", "image2.jpg", "image3.jpg"],
+    "github": "https://github.com/username/project2",
+    "live": "https://project2-demo.com",
+    "features": [
+        "Real-time data updates",
+        "User authentication",
+        "Database integration",
+        "API development"
+    ]
+} 

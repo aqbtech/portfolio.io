@@ -1,0 +1,22 @@
+{
+    "title": "E-commerce Platforms",
+    "summary": "A modern e-commerce platform built with React and Node.js, featuring a responsive design and seamless shopping experience",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+        {
+            "image": "images/1.home.png",
+            "caption": "Homepage with featured products"
+        },
+        {
+            "image": "images/2.detail.png",
+            "caption": "Product listing with filters"
+        },
+        {
+            "image": "images/3.cart.png",
+            "caption": "Shopping cart interface"
+        }
+    ],
+    "github": "https://github.com/username/ecommerce",
+    "live": "https://ecommerce-demo.com"
+} 
