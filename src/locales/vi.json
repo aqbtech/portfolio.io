@@ -19,7 +19,7 @@
   },
   "about": {
     "title": "Về tôi",
-    "subtitle": "Xin chào, tôi là Quân Tư — một full-stack developer với động lực từ sự tò mò, phát triển bản thân và mục tiêu rõ ràng.",
+    "subtitle": "Xin chào, tôi là Quân Từ — một full-stack developer với động lực từ sự tò mò, phát triển bản thân và mục tiêu rõ ràng.",
     "description": "Tôi đam mê học hỏi và không ngừng thử thách bản thân để phát triển cả về kỹ thuật lẫn cá nhân. Tôi thích làm việc trong môi trường có thể đóng góp ý nghĩa, hợp tác với người khác và giải quyết các vấn đề thực tế. Mỗi dự án là cơ hội để cải thiện — không chỉ sản phẩm mà còn chính tôi. Tôi luôn sẵn sàng khám phá công nghệ mới, đón nhận phản hồi và biến ý tưởng thành hiện thực."
   },
   "education": {
@@ -40,11 +40,11 @@
   "experience": {
     "title": "Kinh nghiệm",
     "subtitle": "Hành trình nghề nghiệp của tôi",
-    "role": "Thực tập sinh Tự động hóa Quy trình Kinh doanh",
+    "role": "Thực tập sinh Tự động hóa Quy trình Nghiệp vụ",
     "company": "Dai-ichi Life Việt Nam · Toàn thời gian",
     "period": "Tháng 6/2025 - Tháng 8/2025",
     "duration": "3 tháng",
-    "scope": "Lĩnh vực Bảo hiểm (Phân hệ Bồi thường: GOP/ME/Hoàn trả), Nghiệp vụ mới & Nhập liệu. Agile/Scrum với Azure DevOps.",
+    "scope": "Lĩnh vực Bảo hiểm (Claim subdomain: GOP/ME/Reimbursement), New Business & Data Entry. Agile/Scrum with Azure DevOps.",
     "contributionsTitle": "Đóng góp chính",
     "contributions": [
       "Viết và duy trì Đặc tả Nghiệp vụ cho Auto-assign Investigator: quy tắc routing (team/region/SLA), điều kiện kích hoạt, xử lý ngoại lệ, audit logging.",
