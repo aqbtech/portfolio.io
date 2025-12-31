@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Tu Van Nguyen Anh Quan",
+    "title": "Software Engineer",
+    "description": "A passionate full-stack developer with a strong interest in web development, AI integration and software architecture.",
+    "viewWork": "View My Work",
+    "viewResume": "View Resume",
+    "contactMe": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Hi, I'm Quan Tu — a full-stack developer driven by curiosity, growth, and purpose.",
+    "description": "I'm passionate about learning and constantly challenging myself to grow technically and personally. I thrive in environments where I can contribute meaningfully, collaborate with others, and tackle real-world problems. Every project is an opportunity to improve — not just the product, but myself. I'm eager to explore new technologies, embrace feedback, and turn ideas into impact."
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "My academic journey",
+    "degree": "Bachelor of Computer Science",
+    "university": "VNU HCM - Ho Chi Minh University of Technology",
+    "period": "2022 - 2026",
+    "description": "Pursuing a degree in Computer Science with focus on Web/Mobile Development and AI.",
+    "gpa": "Current GPA: 3.7 - CGPA 3.6",
+    "english": "English Proficiency: TOEIC RL 740 (2025)",
+    "highlights": [
+      "Participating in various web development projects",
+      "Exploring Software architecture"
+    ],
+    "award": "HCMUT academic encouragement scholarship semester 231"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey",
+    "role": "Business Process Automation Intern",
+    "company": "Dai-ichi Life Vietnam · Full-time",
+    "period": "Jun 2025 - Aug 2025",
+    "duration": "3 months",
+    "scope": "Insurance domain (Claim subdomain: GOP/ME/Reimbursement), New Business & Data Entry. Agile/Scrum with Azure DevOps.",
+    "contributionsTitle": "Key Contributions",
+    "contributions": [
+      "Wrote and maintained Business Specification for Auto-assign Investigator: routing rules (team/region/SLA), trigger conditions, exception handling, audit logging.",
+      "Authored Mapping Claimform: field mapping, validation rules, handling missing/invalid inputs to improve first-pass claim quality.",
+      "Configured master data for automation: investigator teams/regions, email templates/fonts for generate email.",
+      "Designed test cases and ran ST/System Tests for Auto-assign and Claim-form (positive/negative/boundary, end-to-end across systems).",
+      "Modeled claim/policy flows using BPMN (swimlanes, gateways, events) to identify automation points and handoffs.",
+      "Analyzed integration with Dai-ichi Connect to enable e-Claim submit: payload schema, field mapping, status sync, error scenarios."
+    ],
+    "impactTitle": "Impact",
+    "impact": [
+      "Standardized investigator routing and reduced manual assignment steps.",
+      "Improved claim data consistency via Claimform mapping/validation; fewer rework loops.",
+      "Automated checks (waiting-period rule) and notifications (generate email) to lower manual follow-ups.",
+      "Established groundwork for end-to-end e-Claim integration with traceability in Azure DevOps."
+    ],
+    "tools": ["Azure DevOps", "BPMN", "API Design", "ST/UAT", "Test Plans"]
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "What I can do",
+    "programming": "Programming",
+    "frameworks": "Frameworks/Libraries",
+    "database": "Database",
+    "tools": "Tools"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "What I've built",
+    "liveDemo": "Live Demo",
+    "viewCode": "View Code",
+    "viewDetails": "View Details",
+    "backToProjects": "Back to Projects"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with me",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Your Email",
+    "messagePlaceholder": "Your Message",
+    "sendButton": "Send Message",
+    "successMessage": "✔️ Successfully sent! Thank you for your message.",
+    "errorMessage": "❌ Error sending message. Please try again."
+  },
+  "footer": {
+    "tagline": "Curious developer. Always learning. Always building.",
+    "quickLinks": "Quick Links",
+    "skillsOverview": "Skills Overview",
+    "backendDev": "Backend Development",
+    "frontendDev": "Frontend Development",
+    "dbManagement": "Database Management",
+    "devopsTools": "DevOps & Tools",
+    "contactInfo": "Contact Info",
+    "copyright": "All Rights Reserved."
+  }
+}

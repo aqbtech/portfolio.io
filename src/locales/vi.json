@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "education": "Học vấn",
+    "experience": "Kinh nghiệm",
+    "skills": "Kỹ năng",
+    "projects": "Dự án",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "greeting": "Xin chào, tôi là",
+    "name": "Tư Văn Nguyễn Anh Quân",
+    "title": "Kỹ sư Phần mềm",
+    "description": "Một full-stack developer đam mê phát triển web, tích hợp AI và kiến trúc phần mềm.",
+    "viewWork": "Xem Dự án",
+    "viewResume": "Xem Resume",
+    "contactMe": "Liên hệ"
+  },
+  "about": {
+    "title": "Về tôi",
+    "subtitle": "Xin chào, tôi là Quân Tư — một full-stack developer với động lực từ sự tò mò, phát triển bản thân và mục tiêu rõ ràng.",
+    "description": "Tôi đam mê học hỏi và không ngừng thử thách bản thân để phát triển cả về kỹ thuật lẫn cá nhân. Tôi thích làm việc trong môi trường có thể đóng góp ý nghĩa, hợp tác với người khác và giải quyết các vấn đề thực tế. Mỗi dự án là cơ hội để cải thiện — không chỉ sản phẩm mà còn chính tôi. Tôi luôn sẵn sàng khám phá công nghệ mới, đón nhận phản hồi và biến ý tưởng thành hiện thực."
+  },
+  "education": {
+    "title": "Học vấn",
+    "subtitle": "Hành trình học tập của tôi",
+    "degree": "Cử nhân Khoa học Máy tính",
+    "university": "ĐHQG HCM - Đại học Bách Khoa TP.HCM",
+    "period": "2022 - 2026",
+    "description": "Theo học ngành Khoa học Máy tính với trọng tâm Phát triển Web/Mobile và AI.",
+    "gpa": "GPA hiện tại: 3.7 - CGPA 3.6",
+    "english": "Trình độ Tiếng Anh: TOEIC RL 740 (2025)",
+    "highlights": [
+      "Tham gia nhiều dự án phát triển web",
+      "Nghiên cứu kiến trúc phần mềm"
+    ],
+    "award": "Học bổng khuyến khích học tập HCMUT học kỳ 231"
+  },
+  "experience": {
+    "title": "Kinh nghiệm",
+    "subtitle": "Hành trình nghề nghiệp của tôi",
+    "role": "Thực tập sinh Tự động hóa Quy trình Kinh doanh",
+    "company": "Dai-ichi Life Việt Nam · Toàn thời gian",
+    "period": "Tháng 6/2025 - Tháng 8/2025",
+    "duration": "3 tháng",
+    "scope": "Lĩnh vực Bảo hiểm (Phân hệ Bồi thường: GOP/ME/Hoàn trả), Nghiệp vụ mới & Nhập liệu. Agile/Scrum với Azure DevOps.",
+    "contributionsTitle": "Đóng góp chính",
+    "contributions": [
+      "Viết và duy trì Đặc tả Nghiệp vụ cho Auto-assign Investigator: quy tắc routing (team/region/SLA), điều kiện kích hoạt, xử lý ngoại lệ, audit logging.",
+      "Biên soạn Mapping Claimform: ánh xạ trường, quy tắc validation, xử lý input thiếu/không hợp lệ để nâng cao chất lượng claim đầu vào.",
+      "Cấu hình master data cho tự động hóa: nhóm/vùng investigator, template/font email cho generate email.",
+      "Thiết kế test case và chạy ST/System Test cho Auto-assign và Claim-form (positive/negative/boundary, end-to-end).",
+      "Mô hình hóa luồng claim/policy bằng BPMN (swimlanes, gateways, events) để xác định điểm tự động hóa.",
+      "Phân tích tích hợp với Dai-ichi Connect để triển khai e-Claim: schema payload, ánh xạ trường, đồng bộ trạng thái, xử lý lỗi."
+    ],
+    "impactTitle": "Tác động",
+    "impact": [
+      "Chuẩn hóa routing investigator và giảm bước phân công thủ công.",
+      "Cải thiện tính nhất quán dữ liệu claim thông qua mapping/validation; giảm vòng lặp sửa lỗi.",
+      "Tự động hóa kiểm tra (quy tắc thời gian chờ) và thông báo (generate email) để giảm theo dõi thủ công.",
+      "Thiết lập nền tảng cho tích hợp e-Claim end-to-end với khả năng truy vết trong Azure DevOps."
+    ],
+    "tools": ["Azure DevOps", "BPMN", "Thiết kế API", "ST/UAT", "Test Plans"]
+  },
+  "skills": {
+    "title": "Kỹ năng",
+    "subtitle": "Những gì tôi có thể làm",
+    "programming": "Lập trình",
+    "frameworks": "Frameworks/Thư viện",
+    "database": "Cơ sở dữ liệu",
+    "tools": "Công cụ"
+  },
+  "projects": {
+    "title": "Dự án",
+    "subtitle": "Những gì tôi đã xây dựng",
+    "liveDemo": "Xem Demo",
+    "viewCode": "Xem Code",
+    "viewDetails": "Xem Chi tiết",
+    "backToProjects": "Quay lại Dự án"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "subtitle": "Kết nối với tôi",
+    "namePlaceholder": "Tên của bạn",
+    "emailPlaceholder": "Email của bạn",
+    "messagePlaceholder": "Tin nhắn của bạn",
+    "sendButton": "Gửi tin nhắn",
+    "successMessage": "✔️ Gửi thành công! Cảm ơn bạn đã liên hệ.",
+    "errorMessage": "❌ Lỗi gửi tin nhắn. Vui lòng thử lại."
+  },
+  "footer": {
+    "tagline": "Developer tò mò. Luôn học hỏi. Luôn xây dựng.",
+    "quickLinks": "Liên kết nhanh",
+    "skillsOverview": "Tổng quan Kỹ năng",
+    "backendDev": "Phát triển Backend",
+    "frontendDev": "Phát triển Frontend",
+    "dbManagement": "Quản lý Cơ sở dữ liệu",
+    "devopsTools": "DevOps & Công cụ",
+    "contactInfo": "Thông tin Liên hệ",
+    "copyright": "Tất cả quyền được bảo lưu."
+  }
+}
